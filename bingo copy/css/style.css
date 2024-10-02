@@ -1,0 +1,20 @@
+
+        .col-color-0 { background-color: #FFC0CB; } 
+        .col-color-1 { background-color: #ADD8E6; } 
+        .col-color-2 { background-color: #90EE90; } 
+        .col-color-3 { background-color: #FFFFE0; } 
+        .col-color-4 { background-color: #FFB6C1; } 
+        .highlight { background-color: pink; }
+
+    
+            .bingo-table th, .bingo-table td {
+            width: 60px;
+            height: 60px;
+            font-size: 1.5rem;
+            text-align: center;
+            vertical-align: middle;
+        }
+        .bingo-table th {
+            background-color: #343a40;
+            color: white;
+        }
